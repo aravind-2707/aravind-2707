@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @aravind-2707
+- 👀 I’m interested in ...Basketball , NBA , Programming ( even though i've zero knowledge about it rn , for now i only know the basics of python)
+- 🌱 I’m currently learning ...python (from scratch)(beginner)
+- 💞️ I’m looking to collaborate on ... no ideas for now 
+- 📫 How to reach me ...mail : arvisrinivas2004@gmail.com
+<!---
+aravind-2707/aravind-2707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
