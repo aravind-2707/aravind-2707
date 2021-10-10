@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Aravind Srinivas S
 -  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind-2707)](https://github.com/anuraghazra/github-readme-stats)
+-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 - 👀 I’m interested in ...Basketball , NBA , Programming ( even though i've zero knowledge about it rn , for now i only know the basics of python)
 - 🌱 I’m currently learning ...python (from scratch)(beginner)
 - 💞️ I’m looking to collaborate on ... no ideas for now 
