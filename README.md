@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aravind Srinivas S
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind-2707&show_icons=true)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind-2707&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-2707)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👀 I’m interested in ...Basketball , NBA , Programming ( even though i've zero knowledge about it rn , for now i only know the basics of python)
