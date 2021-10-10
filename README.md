@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aravind-2707
+- 👋 Hi, I’m Aravind Srinivas S
 - 👀 I’m interested in ...Basketball , NBA , Programming ( even though i've zero knowledge about it rn , for now i only know the basics of python)
 - 🌱 I’m currently learning ...python (from scratch)(beginner)
 - 💞️ I’m looking to collaborate on ... no ideas for now 
