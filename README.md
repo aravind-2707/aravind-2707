@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aravind Srinivas S
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind-2707&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind-2707)](https://github.com/anuraghazra/github-readme-stats)
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" /> 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svghttps://www.linkedin.com/in/aravind-s-25088621b/" /
 
 
 
