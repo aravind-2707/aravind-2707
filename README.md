@@ -1,6 +1,6 @@
 ## 1. Hey I'm Aravind <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-**I'm Aravind Srinivas S , A Beginner to the world of Programming.
+**A Beginner to the world of Programming.
 Highly Passionate and Enthusiastic, Tryin' to learn new stuff everyday.**
 ---
 
@@ -25,7 +25,8 @@ Highly Passionate and Enthusiastic, Tryin' to learn new stuff everyday.**
 
  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Typrescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![SAAS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![dJANGO Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&1labelColor=black&logo=javascript&logoColor=F0DB4F)](#) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-
+### ***Tools*** :
+![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![]()
 
 ### ***My Specs*** : 
 ![](https://img.shields.io/badge/AMD-Ryzen_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![](https://img.shields.io/badge/AMD-Radeon_Vega_7-ED1C24?style=for-the-badge&logo=amd&logoColor=white)![](https://img.shields.io/badge/Acer-ASPIRE_5-0078D6?style=for-the-badge&logo=windows&logoColor=white)
