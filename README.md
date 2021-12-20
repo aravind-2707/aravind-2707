@@ -16,7 +16,7 @@ Highly Passionate and Enthusiastic, Tryin' to learn new stuff everyday.**
 
 
 
-### ***Technologies (I know / Learning )*** :
+### ***Technologies I know*** :
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### ***Technologies (I'd like to know / Planning to learn in the future)*** : 
