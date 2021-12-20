@@ -3,12 +3,6 @@
 **A Beginner to the world of Programming.
 Highly Passionate and Enthusiastic, Tryin' to learn new stuff everyday.**
 ---
-
-- *Currently learning Python*
-- *Loves to watch & play Basketball*
-- *Loves to write (has written blogs and articles, especially lots of articles about basketball)*
-- *And also a huge R&B/HipHop fan* 
----
 :mailbox: Reach me out!
 
 
@@ -41,7 +35,7 @@ Highly Passionate and Enthusiastic, Tryin' to learn new stuff everyday.**
 ### ***If you're bored*** : 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-PS : *if you watch the NBA or basketball in general, we're friends already!*
+PS : *I love writing*
 
 
 <!---
