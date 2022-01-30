@@ -17,7 +17,7 @@ Highly Passionate and Enthusiastic, Tryin' to learn new stuff everyday.**
 
 
 
- ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Typrescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![SAAS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![dJANGO Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+ ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Typrescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![SAAS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![dJANGO Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&1labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 ### ***Tools*** :
 ![](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)![]()
